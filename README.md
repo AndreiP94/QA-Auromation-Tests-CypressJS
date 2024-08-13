@@ -1,1 +1,1 @@
-# QA-Auromation-Tests-CypressJS
+# QA-Automation-Tests-CypressJS
